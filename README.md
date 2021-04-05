@@ -2,6 +2,8 @@
 This is a bootstrap one page application devoloped for just sharing social links just replace with your
 details.
 
+https://nobel322.github.io/LinkTree/
+
 To host you can use either<br>
 <b>Github Pages: </b> https://pages.github.com
 <br> or <br>
