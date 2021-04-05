@@ -1,6 +1,6 @@
 # LinkTree
 
-https://nobel322.github.io/LinkTree/
+page : https://nobel322.github.io/LinkTree/
 
 ## em html, Css e Sass
 
