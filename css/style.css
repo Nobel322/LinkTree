@@ -77,14 +77,16 @@ body {
   display: flex;
 }
 
-.card-linkedin {
+.card-snapchat {
   background: #414141;
   border-radius: 10px;
+  display: flex;
 }
 
 .card-instagram {
   background: #414141;
   border-radius: 10px;
+  display: flex;
 }
 
 .card-twitter {
@@ -114,7 +116,7 @@ body {
 }
 
 .card-github a,
-.card-linkedin a,
+.card-snapchat a,
 .card-instagram a,
 .card-twitter a {
   padding: 50px 125px;
@@ -127,9 +129,9 @@ p {
 }
 
 .fa-github,
-.fa-linkedin-in,
+.fa-snapchat,
 .fa-instagram,
-.fa-briefcase {
+.fa-twitter {
   font-size: 2.5em;
   margin-bottom: 10px;
 }

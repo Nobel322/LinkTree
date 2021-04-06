@@ -86,7 +86,7 @@ body {
 }
 
 
-.card-linkedin {
+.card-snapchat {
     background: $card-grey;
     border-radius: 10px;
 }
@@ -127,7 +127,7 @@ body {
 }
 
 .card-github a,
-.card-linkedin a, 
+.card-snapchat a, 
 .card-instagram a,
 .card-twitter a {
     @include text-card;
@@ -143,9 +143,9 @@ p {
 }
 
 .fa-github,
-.fa-linkedin-in,
+.fa-snapchat,
 .fa-instagram,
-.fa-briefcase {
+.fa-twitter {
     @include font-icon;
 }
 
