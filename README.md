@@ -1,5 +1,5 @@
 # LinkTree
-## em html, Css e Sass
+## Html, Css and Sass
 
 - [x] responsiveness
 - [x] link to github, twitter, snapchat and instagram
