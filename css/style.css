@@ -77,7 +77,7 @@ body {
   display: flex;
 }
 
-.card-snapchat {
+.card-reddit {
   background: #414141;
   border-radius: 10px;
   display: flex;
@@ -116,7 +116,7 @@ body {
 }
 
 .card-github a,
-.card-snapchat a,
+.card-reddit a,
 .card-instagram a,
 .card-twitter a {
   padding: 50px 125px;
@@ -129,7 +129,7 @@ p {
 }
 
 .fa-github,
-.fa-snapchat,
+.fa-reddit,
 .fa-instagram,
 .fa-twitter {
   font-size: 2.5em;
