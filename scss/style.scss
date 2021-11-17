@@ -86,7 +86,7 @@ body {
 }
 
 
-.card-snapchat {
+.card-reddit {
     background: $card-grey;
     border-radius: 10px;
 }
@@ -127,7 +127,7 @@ body {
 }
 
 .card-github a,
-.card-snapchat a, 
+.card-reddit a, 
 .card-instagram a,
 .card-twitter a {
     @include text-card;
@@ -143,7 +143,7 @@ p {
 }
 
 .fa-github,
-.fa-snapchat,
+.fa-reddit,
 .fa-instagram,
 .fa-twitter {
     @include font-icon;
